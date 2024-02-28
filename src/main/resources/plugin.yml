@@ -1,0 +1,7 @@
+name: DiscordNotice
+version: '${version}'
+main: dev.m1sk9.discordnotice.DiscordNotice
+api-version: '1.20'
+description: Sever open/close notice to Discord Webhook
+website: https://github.com/m1sk9/DiscordNotice
+author: m1sk9
